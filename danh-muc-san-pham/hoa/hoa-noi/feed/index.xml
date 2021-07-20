@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hoa noi &#8211; webbanhoa</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/hoa/hoa-noi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sang34098.github.io/webbanhoa</link>
+	<description>webhoavietnam</description>
+	<lastBuildDate>Mon, 19 Jul 2021 13:13:02 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>sp8</title>
+		<link>https://sang34098.github.io/webbanhoa/product/sp8/</link>
+					<comments>https://sang34098.github.io/webbanhoa/product/sp8/#respond</comments>
+		
+		<dc:creator><![CDATA[minhsang]]></dc:creator>
+		<pubDate>Mon, 19 Jul 2021 11:12:02 +0000</pubDate>
+				<guid isPermaLink="false">https://sang34098.github.io/webbanhoa/?post_type=product&#038;p=264</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://sang34098.github.io/webbanhoa/product/sp8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sp4</title>
+		<link>https://sang34098.github.io/webbanhoa/product/sp4/</link>
+					<comments>https://sang34098.github.io/webbanhoa/product/sp4/#respond</comments>
+		
+		<dc:creator><![CDATA[minhsang]]></dc:creator>
+		<pubDate>Mon, 19 Jul 2021 11:05:17 +0000</pubDate>
+				<guid isPermaLink="false">https://sang34098.github.io/webbanhoa/?post_type=product&#038;p=258</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://sang34098.github.io/webbanhoa/product/sp4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sp2</title>
+		<link>https://sang34098.github.io/webbanhoa/product/sp2/</link>
+					<comments>https://sang34098.github.io/webbanhoa/product/sp2/#respond</comments>
+		
+		<dc:creator><![CDATA[minhsang]]></dc:creator>
+		<pubDate>Wed, 30 Jun 2021 03:50:34 +0000</pubDate>
+				<guid isPermaLink="false">https://sang34098.github.io/webbanhoa/?post_type=product&#038;p=210</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://sang34098.github.io/webbanhoa/product/sp2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sp1</title>
+		<link>https://sang34098.github.io/webbanhoa/product/sp1/</link>
+					<comments>https://sang34098.github.io/webbanhoa/product/sp1/#respond</comments>
+		
+		<dc:creator><![CDATA[minhsang]]></dc:creator>
+		<pubDate>Wed, 30 Jun 2021 03:49:47 +0000</pubDate>
+				<guid isPermaLink="false">https://sang34098.github.io/webbanhoa/?post_type=product&#038;p=208</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://sang34098.github.io/webbanhoa/product/sp1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
